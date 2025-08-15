@@ -43,12 +43,13 @@
 
 ###
 
-<img align="right" height="219" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2RlMjZ6d3Fya3ZzYnFkZm91dzR6cDRmOWFzeWp1MW56a3J5cnB3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wDMOq6KfwcfkiAxVmK/giphy.gif"  />
+<img align="right" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2RlMjZ6d3Fya3ZzYnFkZm91dzR6cDRmOWFzeWp1MW56a3J5cnB3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wDMOq6KfwcfkiAxVmK/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Diptarka003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diptarka003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Diptarka003&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
